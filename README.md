@@ -61,4 +61,4 @@ Include classification report here
 Include your sample input and output here
 
 ## RESULT
-Include your result here
+Thus , The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset. 
